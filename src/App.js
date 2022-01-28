@@ -40,8 +40,8 @@ function App() {
       <div>
         <button onClick={() => setReversed(!reversed)}>Toggle</button>
       </div>
-      <svg width="100%" height="100%" id="svg">
-        <path id="path" d="M 100 350 q 150 -300 300 0" />
+      <svg  >
+        <path id="path" d="M84.868 93.602C116.64 254.052 197.658 26.883 278.677 322.362 389.878 651.201 621.813 295.354 839.451 474.866 1104.747 544.764 1103.158 400.202 1104.747 385.905"/>
       </svg>
       <Box ref={boxy}><img src={spaceship} alt='ship'></img></Box>
     </div>
