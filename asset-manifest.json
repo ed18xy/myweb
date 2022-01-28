@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/myweb/static/css/main.fcd94372.css",
-    "main.js": "/myweb/static/js/main.caba45af.js",
+    "main.css": "/myweb/static/css/main.0f735722.css",
+    "main.js": "/myweb/static/js/main.b6abad89.js",
     "static/media/spaceship.png": "/myweb/static/media/spaceship.080fd161f010b244eda0.png",
     "index.html": "/myweb/index.html",
-    "main.fcd94372.css.map": "/myweb/static/css/main.fcd94372.css.map",
-    "main.caba45af.js.map": "/myweb/static/js/main.caba45af.js.map"
+    "main.0f735722.css.map": "/myweb/static/css/main.0f735722.css.map",
+    "main.b6abad89.js.map": "/myweb/static/js/main.b6abad89.js.map"
   },
   "entrypoints": [
-    "static/css/main.fcd94372.css",
-    "static/js/main.caba45af.js"
+    "static/css/main.0f735722.css",
+    "static/js/main.b6abad89.js"
   ]
 }
